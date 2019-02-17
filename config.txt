@@ -1,6 +1,6 @@
-token=NTQ2NjY3OTY4ODE0MjUyMDQy.D0rkEg.uzPWXDIGsJ6B-NSneDzivz99hwo
+token=NTQ2NjY3OTY4ODE0MjUyMDQy.D0sBYg.XO9fqutZ4tDig0nUgCz2LMdqY-k
 owner=512752556284575744 
-prefix=+
-game=Type +play
+prefix=1
+game=TR3Y_WAY
 stayinchannel=true
 songinstatus=false
